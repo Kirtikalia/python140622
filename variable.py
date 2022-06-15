@@ -19,7 +19,7 @@ print(type(c))
 print(type(d))#print(type(e))
 
 #ways to write string 
-A = "hello world "
+#A = "hello world "
 _f = 'hello world'
 g = '''hello alok  'amit' how are you'''
 
