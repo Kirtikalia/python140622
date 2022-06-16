@@ -5,4 +5,4 @@ a = "hello dear when are you coming at home.\nm waiting\tfor you"
 #print(a.capitalize())
 #print(a.find("dear"))
 #print(a.replace("dear", "mam"))
-print(a)
+print(a) #for printing
